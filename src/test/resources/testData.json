@@ -1,0 +1,9 @@
+{
+  "postsUrl" : "https://jsonplaceholder.typicode.com/posts/",
+  "usersUrl" : "https://jsonplaceholder.typicode.com/users/",
+  "jsonPath" : "./src/main/resources/expectedResult",
+  "countRandomText" : "6",
+  "headerKey" : "Content-Type",
+  "headerValue" : "application/json",
+  "emptyJson" : "User(userId=0, id=0, title=null, body=null)"
+}
